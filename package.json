@@ -2,7 +2,7 @@
   "author": "Hourai Teahouse",
   "name": "com.discord.game-sdk",
   "displayName": "Discord Game SDK",
-  "version": "2.5.6",
+  "version": "2.5.6-2",
   "description": "Discord Game SDK for Unity.",
   "homepage": "https://discordapp.com/developers/docs/game-sdk/sdk-starter-guide",
   "publishConfig": {
